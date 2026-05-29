@@ -22,3 +22,6 @@ button {
     row-gap: 10px;
     background-color: aliceblue;
 }
+#addbtn{
+    max-width: 10px;
+}
