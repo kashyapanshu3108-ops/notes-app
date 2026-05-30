@@ -22,8 +22,9 @@ button {
     row-gap: 10px;
     background-color: aliceblue;
 }
-#addbtn{
-    max-width: 10px;
-    margin-top: 10px;
-    padding-bottom: 20px;
+#addBtn{
+    max-width: 1px; 
+     margin-top: 1px;
+    padding-bottom: 1px;
+    /* border-top: 2px; */
 }
