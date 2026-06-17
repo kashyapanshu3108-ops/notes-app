@@ -28,5 +28,5 @@ button {
     padding-bottom: 1px;
     border-radius: 6px;
     text-align:center ;
-    /* text-box: unset; */
+    text-box: unset;
 }
